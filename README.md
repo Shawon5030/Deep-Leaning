@@ -18,30 +18,10 @@ Ans:An activation function in the context of neural networks serves as a critica
 
 Equation and Graph:
 Let's explore one of the commonly used activation functions, the Rectified Linear Unit (ReLU), which is defined as:
-
-�
-(
-�
-)
-=
-max
-⁡
-(
-0
-,
-�
-)
-f(x)=max(0,x)
-
-Equation: The ReLU function outputs the input 
-�
 x if it is positive, otherwise, it outputs zero. This simple yet effective function introduces non-linearity by allowing positive values to pass through unchanged while zeroing out negative values.
 
 Graph: The graph of the ReLU function is a piecewise linear function. It remains zero for all negative inputs and grows linearly with a slope of one for positive inputs. The function abruptly transitions from zero to the linear growth at 
-�
-=
-0
-x=0.
+
 
 
 Explanation:
