@@ -1,6 +1,6 @@
-# Nazmun_Assignment-1_Understanding-and-Implementing-the-Activation-Function
+# Deep leaning
 
-# Understanding-and-Implementing-the-Activation-Function
+# Understanding and Implementing the Activation Function
 
 ## Objective:
 
