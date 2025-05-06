@@ -38,3 +38,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 ## 1. What is an Activation Function?
 
 An **activation function** is a mathematical equation that determines the output of a neural network node. It maps the input to an output based on a threshold or transformation. Without an activation function, a neural network acts like a simple linear regression model.
+
