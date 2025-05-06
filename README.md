@@ -62,3 +62,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ## 4. Properties of Good Activation Functions
 
 * **Non-linearity**: Enables learning complex data mappings
+* **Differentiable**: Important for backpropagation
