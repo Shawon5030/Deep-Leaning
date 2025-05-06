@@ -148,3 +148,4 @@ def custom_activation(x):
 * Output Layer: Depends on task
 
   * Regression: Linear
+  * Binary classification: Sigmoid
