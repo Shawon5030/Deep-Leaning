@@ -251,3 +251,4 @@ Activation functions give neural networks their **intelligence**. Choosing the r
 Understanding their mathematics and role in training will help you design better models and debug them effectively.
 
 ---
+
