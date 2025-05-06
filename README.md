@@ -252,3 +252,4 @@ Understanding their mathematics and role in training will help you design better
 
 ---
 
+Happy learning, and may your gradients never vanish! ✨
