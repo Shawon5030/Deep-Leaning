@@ -157,3 +157,4 @@ def custom_activation(x):
 
 * **Sigmoid Derivative**: `σ'(x) = σ(x)(1 - σ(x))`
 * **ReLU Derivative**: 1 if x > 0 else 0
+* The smoother the function, the better for gradient flow
