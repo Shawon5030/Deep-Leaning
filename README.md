@@ -85,3 +85,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Issues: Vanishing gradients, not zero-centered
 
 ### 🔹 Tanh Function
+
