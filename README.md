@@ -177,3 +177,4 @@ Activation functions should have non-zero derivatives in most regions.
 ReLU and its variants help mitigate vanishing gradients.
 
 ---
+
