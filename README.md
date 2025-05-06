@@ -231,3 +231,4 @@ class MyModel(nn.Module):
 
 ## 14. Comparison Table
 
+| Function   | Range       | Differentiable | Zero-Centered | Pros                          | Cons                   |
