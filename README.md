@@ -81,3 +81,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 * Formula: `σ(x) = 1 / (1 + e^(-x))`
 * Range: (0, 1)
+* Use: Binary classification
