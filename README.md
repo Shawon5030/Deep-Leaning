@@ -237,3 +237,4 @@ class MyModel(nn.Module):
 | Sigmoid    | (0, 1)      | ✅              | ❌             | Smooth curve                  | Vanishing gradient     |
 | Tanh       | (-1, 1)     | ✅              | ✅             | Better than sigmoid           | Still vanishing issues |
 | ReLU       | \[0, ∞)     | ✅              | ❌             | Sparse, fast, effective       | Dying ReLU             |
+| Leaky ReLU | (-∞, ∞)     | ✅              | ❌             | Solves Dying ReLU             | Small slope            |
