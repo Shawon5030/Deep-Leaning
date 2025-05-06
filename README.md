@@ -147,3 +147,4 @@ def custom_activation(x):
 * Hidden Layers: ReLU, Tanh, Sigmoid, Swish, etc.
 * Output Layer: Depends on task
 
+  * Regression: Linear
