@@ -103,3 +103,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 * Formula: `f(x) = x if x > 0 else αx`
 * Solves Dying ReLU by allowing a small gradient when x < 0
+
