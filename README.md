@@ -149,3 +149,4 @@ def custom_activation(x):
 
   * Regression: Linear
   * Binary classification: Sigmoid
+  * Multi-class: Softmax
