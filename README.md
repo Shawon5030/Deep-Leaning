@@ -91,3 +91,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Use: Preferred over sigmoid in some cases
 * Issues: Still suffers from vanishing gradients
 
+### 🔹 ReLU (Rectified Linear Unit)
