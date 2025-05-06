@@ -68,3 +68,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * **Avoids Vanishing Gradients**: Important for training deep networks
 
 ---
+
