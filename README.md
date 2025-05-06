@@ -105,3 +105,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Solves Dying ReLU by allowing a small gradient when x < 0
 
 ### 🔹 Parametric ReLU (PReLU)
+
