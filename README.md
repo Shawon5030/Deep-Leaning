@@ -167,3 +167,4 @@ Backpropagation relies on derivatives to update weights. If the derivative is 0 
 
 Activation functions should have non-zero derivatives in most regions.
 
+---
