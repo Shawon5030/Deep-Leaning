@@ -214,3 +214,4 @@ print(torch.tanh(torch.tensor([-2.0, 0.0, 2.0])))
 In deep learning frameworks like PyTorch, TensorFlow, Keras:
 
 ```python
+import torch.nn.functional as F
