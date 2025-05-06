@@ -90,3 +90,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Range: (-1, 1)
 * Use: Preferred over sigmoid in some cases
 * Issues: Still suffers from vanishing gradients
+
