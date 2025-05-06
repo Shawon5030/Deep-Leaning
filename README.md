@@ -172,3 +172,4 @@ Activation functions should have non-zero derivatives in most regions.
 ## 10. Vanishing & Exploding Gradients
 
 * **Vanishing**: Gradients shrink; learning slows down
+* **Exploding**: Gradients grow uncontrollably; weights become unstable
