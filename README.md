@@ -98,3 +98,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Use: Most commonly used in hidden layers
 * Pros: Sparse activation, computationally efficient
 * Cons: Dying ReLU problem (neurons stuck at 0)
+
