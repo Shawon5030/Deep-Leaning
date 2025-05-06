@@ -115,3 +115,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ### 🔹 Swish
 
+* Formula: `f(x) = x * sigmoid(x)`
