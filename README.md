@@ -128,3 +128,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ---
 
 ## 6. Custom Activation Functions
+
