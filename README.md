@@ -219,3 +219,4 @@ import torch.nn.functional as F
 class MyModel(nn.Module):
     def __init__(self):
         super(MyModel, self).__init__()
+        self.fc1 = nn.Linear(10, 50)
