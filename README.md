@@ -201,3 +201,4 @@ print(sigmoid(torch.tensor([0.5])))
 
 # ReLU
 relu = nn.ReLU()
+print(relu(torch.tensor([-1.0, 0.0, 2.0])))
