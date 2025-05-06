@@ -65,3 +65,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * **Differentiable**: Important for backpropagation
 * **Computational Efficiency**: Fast to compute
 * **Range of Output**: Bounded or unbounded outputs
+* **Avoids Vanishing Gradients**: Important for training deep networks
