@@ -133,3 +133,4 @@ You can define your own activation functions, especially if you know domain-spec
 
 ```python
 import torch
+import torch.nn as nn
