@@ -27,3 +27,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 8. Mathematical Insights
 9. Derivatives and Backpropagation
 10. Vanishing & Exploding Gradients
+11. Choosing the Right Activation Function
