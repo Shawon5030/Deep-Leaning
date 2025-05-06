@@ -153,3 +153,4 @@ def custom_activation(x):
 
 ---
 
+## 8. Mathematical Insights
