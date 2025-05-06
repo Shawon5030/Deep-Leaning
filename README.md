@@ -78,3 +78,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Problem: Not differentiable
 
 ### 🔹 Sigmoid Function
+
