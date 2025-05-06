@@ -185,3 +185,4 @@ ReLU and its variants help mitigate vanishing gradients.
 * **Tanh**: When you need negative activations
 * **Sigmoid**: For binary outputs
 * **Softmax**: For multi-class classification outputs
+* **Swish/GELU**: For large/deep networks, e.g., Transformers
