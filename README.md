@@ -29,3 +29,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 10. Vanishing & Exploding Gradients
 11. Choosing the Right Activation Function
 12. Code Examples in Python
+13. Activation in Practice (Real-world use)
