@@ -21,3 +21,4 @@ Activation functions are the heart of deep learning neural networks. Without the
    * Parametric ReLU (PReLU)
    * Exponential Linear Unit (ELU)
    * Swish
+   * GELU (Gaussian Error Linear Unit)
