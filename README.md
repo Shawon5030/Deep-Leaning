@@ -166,3 +166,4 @@ def custom_activation(x):
 Backpropagation relies on derivatives to update weights. If the derivative is 0 (flat regions), learning stalls.
 
 Activation functions should have non-zero derivatives in most regions.
+
