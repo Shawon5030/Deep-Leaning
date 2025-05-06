@@ -174,3 +174,4 @@ Activation functions should have non-zero derivatives in most regions.
 * **Vanishing**: Gradients shrink; learning slows down
 * **Exploding**: Gradients grow uncontrollably; weights become unstable
 
+ReLU and its variants help mitigate vanishing gradients.
