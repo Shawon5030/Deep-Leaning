@@ -52,3 +52,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ---
 
+## 3. Linear vs Non-linear Activation
