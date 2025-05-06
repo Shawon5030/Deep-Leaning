@@ -187,3 +187,4 @@ ReLU and its variants help mitigate vanishing gradients.
 * **Softmax**: For multi-class classification outputs
 * **Swish/GELU**: For large/deep networks, e.g., Transformers
 
+---
