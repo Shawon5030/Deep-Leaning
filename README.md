@@ -204,3 +204,4 @@ relu = nn.ReLU()
 print(relu(torch.tensor([-1.0, 0.0, 2.0])))
 
 # Tanh
+print(torch.tanh(torch.tensor([-2.0, 0.0, 2.0])))
