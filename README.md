@@ -84,3 +84,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Use: Binary classification
 * Issues: Vanishing gradients, not zero-centered
 
+### 🔹 Tanh Function
