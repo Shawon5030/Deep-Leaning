@@ -86,3 +86,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ### 🔹 Tanh Function
 
+* Formula: `tanh(x) = 2σ(2x) - 1`
