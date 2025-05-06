@@ -99,3 +99,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Pros: Sparse activation, computationally efficient
 * Cons: Dying ReLU problem (neurons stuck at 0)
 
+### 🔹 Leaky ReLU
