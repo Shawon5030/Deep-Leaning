@@ -243,3 +243,4 @@ class MyModel(nn.Module):
 | GELU       | (-∞, ∞)     | ✅              | ✅             | Used in BERT, Transformers    | Computationally heavy  |
 
 ---
+
