@@ -222,3 +222,4 @@ class MyModel(nn.Module):
         self.fc1 = nn.Linear(10, 50)
         self.fc2 = nn.Linear(50, 1)
 
+    def forward(self, x):
