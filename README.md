@@ -156,3 +156,4 @@ def custom_activation(x):
 ## 8. Mathematical Insights
 
 * **Sigmoid Derivative**: `σ'(x) = σ(x)(1 - σ(x))`
+* **ReLU Derivative**: 1 if x > 0 else 0
