@@ -88,3 +88,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 * Formula: `tanh(x) = 2σ(2x) - 1`
 * Range: (-1, 1)
+* Use: Preferred over sigmoid in some cases
