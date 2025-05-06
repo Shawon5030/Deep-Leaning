@@ -241,3 +241,4 @@ class MyModel(nn.Module):
 | ELU        | (-α, ∞)     | ✅              | ✅             | Negative mean activation      | Slightly slower        |
 | Swish      | (-0.28x, ∞) | ✅              | ✅             | Outperforms ReLU in deep nets | New, less intuitive    |
 | GELU       | (-∞, ∞)     | ✅              | ✅             | Used in BERT, Transformers    | Computationally heavy  |
+
