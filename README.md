@@ -74,3 +74,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ### 🔹 Step Function
 
 * Output: 0 if input < 0, else 1
+* Use: Rarely used now
