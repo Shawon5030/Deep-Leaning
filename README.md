@@ -24,3 +24,4 @@ Activation functions are the heart of deep learning neural networks. Without the
    * GELU (Gaussian Error Linear Unit)
 6. Custom Activation Functions
 7. Activation in Different Layers
+8. Mathematical Insights
