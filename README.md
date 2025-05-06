@@ -144,3 +144,4 @@ def custom_activation(x):
 ## 7. Activation in Different Layers
 
 * Input Layer: Often linear or identity
+* Hidden Layers: ReLU, Tanh, Sigmoid, Swish, etc.
