@@ -22,3 +22,4 @@ Activation functions are the heart of deep learning neural networks. Without the
    * Exponential Linear Unit (ELU)
    * Swish
    * GELU (Gaussian Error Linear Unit)
+6. Custom Activation Functions
