@@ -83,3 +83,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Range: (0, 1)
 * Use: Binary classification
 * Issues: Vanishing gradients, not zero-centered
+
