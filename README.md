@@ -94,3 +94,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ### 🔹 ReLU (Rectified Linear Unit)
 
 * Formula: `f(x) = max(0, x)`
+* Range: \[0, ∞)
