@@ -221,3 +221,4 @@ class MyModel(nn.Module):
         super(MyModel, self).__init__()
         self.fc1 = nn.Linear(10, 50)
         self.fc2 = nn.Linear(50, 1)
+
