@@ -63,3 +63,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 * **Non-linearity**: Enables learning complex data mappings
 * **Differentiable**: Important for backpropagation
+* **Computational Efficiency**: Fast to compute
