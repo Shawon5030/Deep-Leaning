@@ -100,3 +100,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Cons: Dying ReLU problem (neurons stuck at 0)
 
 ### 🔹 Leaky ReLU
+
