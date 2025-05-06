@@ -16,3 +16,4 @@ Activation functions are the heart of deep learning neural networks. Without the
    * Step Function
    * Sigmoid Function
    * Tanh Function
+   * ReLU (Rectified Linear Unit)
