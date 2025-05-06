@@ -110,3 +110,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ### 🔹 ELU (Exponential Linear Unit)
 
+* Formula: `x if x > 0 else α*(exp(x)-1)`
