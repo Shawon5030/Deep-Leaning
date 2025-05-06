@@ -197,3 +197,4 @@ import torch.nn as nn
 
 # Sigmoid
 sigmoid = nn.Sigmoid()
+print(sigmoid(torch.tensor([0.5])))
