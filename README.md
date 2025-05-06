@@ -79,3 +79,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ### 🔹 Sigmoid Function
 
+* Formula: `σ(x) = 1 / (1 + e^(-x))`
