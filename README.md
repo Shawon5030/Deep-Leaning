@@ -121,3 +121,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Shows better performance in deep networks
 
 ### 🔹 GELU (Gaussian Error Linear Unit)
+
