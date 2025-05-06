@@ -96,3 +96,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * Formula: `f(x) = max(0, x)`
 * Range: \[0, ∞)
 * Use: Most commonly used in hidden layers
+* Pros: Sparse activation, computationally efficient
