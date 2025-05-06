@@ -108,3 +108,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 * Like Leaky ReLU, but α is learned during training
 
+### 🔹 ELU (Exponential Linear Unit)
