@@ -236,3 +236,4 @@ class MyModel(nn.Module):
 | Step       | {0, 1}      | ❌              | ❌             | Simple                        | Not used, not diff.    |
 | Sigmoid    | (0, 1)      | ✅              | ❌             | Smooth curve                  | Vanishing gradient     |
 | Tanh       | (-1, 1)     | ✅              | ✅             | Better than sigmoid           | Still vanishing issues |
+| ReLU       | \[0, ∞)     | ✅              | ❌             | Sparse, fast, effective       | Dying ReLU             |
