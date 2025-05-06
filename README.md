@@ -146,3 +146,4 @@ def custom_activation(x):
 * Input Layer: Often linear or identity
 * Hidden Layers: ReLU, Tanh, Sigmoid, Swish, etc.
 * Output Layer: Depends on task
+
