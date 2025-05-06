@@ -41,3 +41,4 @@ An **activation function** is a mathematical equation that determines the output
 
 ---
 
+## 2. Why Do We Need Activation Functions?
