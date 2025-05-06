@@ -55,3 +55,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ## 3. Linear vs Non-linear Activation
 
 * **Linear Activation**: Output = input. Easy to compute but limited in expressive power.
+* **Non-linear Activation**: Allows the model to capture complex patterns like XOR, images, speech, etc.
