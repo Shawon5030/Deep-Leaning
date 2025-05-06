@@ -8,3 +8,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 ### 📌 Table of Contents
 
 1. What is an Activation Function?
+2. Why Do We Need Activation Functions?
