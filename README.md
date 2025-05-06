@@ -188,3 +188,4 @@ ReLU and its variants help mitigate vanishing gradients.
 * **Swish/GELU**: For large/deep networks, e.g., Transformers
 
 ---
+
