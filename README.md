@@ -239,3 +239,4 @@ class MyModel(nn.Module):
 | ReLU       | \[0, ∞)     | ✅              | ❌             | Sparse, fast, effective       | Dying ReLU             |
 | Leaky ReLU | (-∞, ∞)     | ✅              | ❌             | Solves Dying ReLU             | Small slope            |
 | ELU        | (-α, ∞)     | ✅              | ✅             | Negative mean activation      | Slightly slower        |
+| Swish      | (-0.28x, ∞) | ✅              | ✅             | Outperforms ReLU in deep nets | New, less intuitive    |
