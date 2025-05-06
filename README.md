@@ -107,3 +107,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 ### 🔹 Parametric ReLU (PReLU)
 
 * Like Leaky ReLU, but α is learned during training
+
