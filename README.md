@@ -48,3 +48,4 @@ An **activation function** is a mathematical equation that determines the output
 * To control the **flow of information**
 * To decide **which neurons fire** and which don't
 
+Without non-linear activation, a deep network is just a linear function regardless of its depth.
