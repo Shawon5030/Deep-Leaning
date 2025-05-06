@@ -159,3 +159,4 @@ def custom_activation(x):
 * **ReLU Derivative**: 1 if x > 0 else 0
 * The smoother the function, the better for gradient flow
 
+---
