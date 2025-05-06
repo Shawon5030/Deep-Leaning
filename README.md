@@ -195,3 +195,4 @@ ReLU and its variants help mitigate vanishing gradients.
 import torch
 import torch.nn as nn
 
+# Sigmoid
