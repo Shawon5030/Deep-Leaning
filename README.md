@@ -155,3 +155,4 @@ def custom_activation(x):
 
 ## 8. Mathematical Insights
 
+* **Sigmoid Derivative**: `σ'(x) = σ(x)(1 - σ(x))`
