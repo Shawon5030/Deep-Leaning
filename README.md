@@ -31,3 +31,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 12. Code Examples in Python
 13. Activation in Practice (Real-world use)
 14. Final Comparison Table
+15. Conclusion
