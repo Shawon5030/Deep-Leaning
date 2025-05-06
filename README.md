@@ -18,3 +18,4 @@ Activation functions are the heart of deep learning neural networks. Without the
    * Tanh Function
    * ReLU (Rectified Linear Unit)
    * Leaky ReLU
+   * Parametric ReLU (PReLU)
