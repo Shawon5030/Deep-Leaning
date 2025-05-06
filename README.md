@@ -249,3 +249,4 @@ class MyModel(nn.Module):
 Activation functions give neural networks their **intelligence**. Choosing the right one can significantly improve performance and training time. From simple step functions to advanced Swish and GELU, the landscape is rich and evolving.
 
 Understanding their mathematics and role in training will help you design better models and debug them effectively.
+
