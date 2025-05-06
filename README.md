@@ -131,3 +131,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 You can define your own activation functions, especially if you know domain-specific requirements. For example:
 
+```python
