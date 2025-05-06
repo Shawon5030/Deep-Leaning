@@ -12,3 +12,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 3. Linear vs Non-linear Activation
 4. Properties of Good Activation Functions
 5. Popular Activation Functions
+
