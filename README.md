@@ -183,3 +183,4 @@ ReLU and its variants help mitigate vanishing gradients.
 * **ReLU**: Best default for hidden layers
 * **Leaky ReLU**: If ReLU neurons die
 * **Tanh**: When you need negative activations
+* **Sigmoid**: For binary outputs
