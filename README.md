@@ -169,3 +169,4 @@ Activation functions should have non-zero derivatives in most regions.
 
 ---
 
+## 10. Vanishing & Exploding Gradients
