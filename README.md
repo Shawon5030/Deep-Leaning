@@ -164,3 +164,4 @@ def custom_activation(x):
 ## 9. Derivatives and Backpropagation
 
 Backpropagation relies on derivatives to update weights. If the derivative is 0 (flat regions), learning stalls.
+
