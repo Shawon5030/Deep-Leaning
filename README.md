@@ -141,3 +141,4 @@ def custom_activation(x):
 
 ---
 
+## 7. Activation in Different Layers
