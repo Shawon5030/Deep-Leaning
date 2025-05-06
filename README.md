@@ -14,3 +14,4 @@ Activation functions are the heart of deep learning neural networks. Without the
 5. Popular Activation Functions
 
    * Step Function
+   * Sigmoid Function
