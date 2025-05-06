@@ -46,3 +46,4 @@ An **activation function** is a mathematical equation that determines the output
 * To introduce **non-linearity** into the model
 * To help the network learn **complex functions**
 * To control the **flow of information**
+* To decide **which neurons fire** and which don't
