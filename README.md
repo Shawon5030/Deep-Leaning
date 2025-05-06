@@ -178,3 +178,4 @@ ReLU and its variants help mitigate vanishing gradients.
 
 ---
 
+## 11. Choosing the Right Activation Function
