@@ -58,3 +58,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 * **Non-linear Activation**: Allows the model to capture complex patterns like XOR, images, speech, etc.
 
 ---
+
