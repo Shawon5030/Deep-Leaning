@@ -226,3 +226,4 @@ class MyModel(nn.Module):
         x = F.relu(self.fc1(x))
         return torch.sigmoid(self.fc2(x))
 ```
+
