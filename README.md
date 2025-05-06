@@ -199,3 +199,4 @@ import torch.nn as nn
 sigmoid = nn.Sigmoid()
 print(sigmoid(torch.tensor([0.5])))
 
+# ReLU
