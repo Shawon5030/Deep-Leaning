@@ -122,3 +122,4 @@ Without non-linear activation, a deep network is just a linear function regardle
 
 ### 🔹 GELU (Gaussian Error Linear Unit)
 
+* Formula involves integrating Gaussian distribution
