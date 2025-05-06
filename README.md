@@ -151,3 +151,4 @@ def custom_activation(x):
   * Binary classification: Sigmoid
   * Multi-class: Softmax
 
+---
