@@ -242,3 +242,4 @@ class MyModel(nn.Module):
 | Swish      | (-0.28x, ∞) | ✅              | ✅             | Outperforms ReLU in deep nets | New, less intuitive    |
 | GELU       | (-∞, ∞)     | ✅              | ✅             | Used in BERT, Transformers    | Computationally heavy  |
 
+---
