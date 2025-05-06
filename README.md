@@ -234,3 +234,4 @@ class MyModel(nn.Module):
 | Function   | Range       | Differentiable | Zero-Centered | Pros                          | Cons                   |
 | ---------- | ----------- | -------------- | ------------- | ----------------------------- | ---------------------- |
 | Step       | {0, 1}      | ❌              | ❌             | Simple                        | Not used, not diff.    |
+| Sigmoid    | (0, 1)      | ✅              | ❌             | Smooth curve                  | Vanishing gradient     |
