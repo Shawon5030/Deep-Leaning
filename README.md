@@ -135,3 +135,4 @@ You can define your own activation functions, especially if you know domain-spec
 import torch
 import torch.nn as nn
 
+def custom_activation(x):
