@@ -184,3 +184,4 @@ ReLU and its variants help mitigate vanishing gradients.
 * **Leaky ReLU**: If ReLU neurons die
 * **Tanh**: When you need negative activations
 * **Sigmoid**: For binary outputs
+* **Softmax**: For multi-class classification outputs
