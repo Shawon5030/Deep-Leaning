@@ -136,3 +136,4 @@ import torch
 import torch.nn as nn
 
 def custom_activation(x):
+    return torch.sin(x) * torch.sigmoid(x)
