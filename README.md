@@ -200,3 +200,4 @@ sigmoid = nn.Sigmoid()
 print(sigmoid(torch.tensor([0.5])))
 
 # ReLU
+relu = nn.ReLU()
